@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
     if len(sys.argv) != 2:
         print("Usage:   %s <base64 passwd>" % sys.argv[0])
-        print("Example: %s 'jWbTyS7BL1Hj7PkO5Di/QhhYmcGj5cOoZ2OkDTrFXsR/abAFPM9B3Q=='" % sys.argv[0])
+        print("Example: %s 'f2mwBTzPQdtnY6QNOsVexH9psAU8z0HbZ2OkDTrFXsR/abAFPM9B3Q=='" % sys.argv[0])
         sys.exit(0)
 
     # read arg
